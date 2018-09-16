@@ -1,0 +1,2 @@
+json.current_user user.current_user
+json.authenticate_user user.authenticate_user
